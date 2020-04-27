@@ -2,8 +2,8 @@
 
 这是一个仿明日方舟官网的项目，使用 Vue + Node.js + MongoDB 分别开发了前台移动端、后台 PC 端以及服务器端。项目地址：
 
-- 前台移动端：[](https://www.yesuanzao.cn/m)
-- 后台 PC 端：[](https://www.yesuanzao.cn/admin)，账号密码均为`admin`
+- 前台移动端：https://www.yesuanzao.cn/m
+- 后台 PC 端：https://www.yesuanzao.cn/admin （账号密码均为`admin`）
 
 项目主要特性如下：
 
